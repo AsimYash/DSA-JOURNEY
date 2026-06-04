@@ -100,7 +100,8 @@ DSA-JOURNEY
 ## 🌟 Connect With Me
 
 - GitHub: https://github.com/AsimYash
-- LinkedIn: www.linkedin.com/in/asimyash
+- LinkedIn: www.linkedin.com/in/asim-yash-456435399
+- LeetCode: https://leetcode.com/u/AsimYash/
 
 ---
 
