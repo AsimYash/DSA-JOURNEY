@@ -1,21 +1,22 @@
 # 🚀 DSA Journey
 
-This repository contains my solutions to Data Structures and Algorithms problems as part of my **#100DaysOfDSA** journey.
+This repository contains my solutions to Data Structures and Algorithms problems as part of my **#100DaysOfDSA** journey and the **#DrGViswanathan Challenge**.
 
 ## 👨‍💻 Language
 
 * Java
 
-## 🎯 Goal
+## 🎯 Goals
 
-* Strengthen problem-solving skills
-* Build consistency through daily practice
-* Prepare for coding interviews and placement opportunities
-* Maintain a public record of progress on GitHub and LinkedIn
+* Master Data Structures & Algorithms
+* Build strong problem-solving skills
+* Prepare for top product-based companies
+* Maintain consistency through daily coding
+* Document progress publicly on GitHub and LinkedIn
 
 ## 📈 Progress
 
-### Arrays ✅
+### Arrays ✅ (14/20)
 
 * [x] Two Sum (#1)
 * [x] Remove Duplicates from Sorted Array (#26)
@@ -57,13 +58,36 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Removing Stars From a String (#2390)
 * [x] Make The String Great (#1544)
 
+### Binary Search ✅
+
+* [x] Binary Search (#704)
+* [x] First Bad Version (#278)
+* [x] Guess Number Higher or Lower (#374)
+
 ### Upcoming Topics
 
-* [ ] Binary Search
+* [ ] Advanced Binary Search
 * [ ] Linked List
 * [ ] Trees
 * [ ] Graphs
 * [ ] Dynamic Programming
+
+## 📅 Challenge Progress
+
+* Day 1 ✅
+* Day 2 ✅
+* Day 3 ✅
+* Day 4 ✅
+* Day 5 ✅
+* Day 6 ✅
+* Day 7 ✅
+* Day 8 ✅
+* Day 9 ✅
+* Day 10 ✅
+* Day 11 ✅
+* Day 12 ✅
+
+**Total Problems Solved: 36+**
 
 ## 🔗 Connect With Me
 
@@ -72,4 +96,4 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ---
 
-⭐ Consistency over intensity. One step every day towards becoming a better problem solver.
+⭐ Consistency beats intensity. One problem, one day, one step closer to becoming a better engineer.
