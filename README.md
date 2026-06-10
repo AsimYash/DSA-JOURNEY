@@ -63,36 +63,31 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Binary Search (#704)
 * [x] First Bad Version (#278)
 * [x] Guess Number Higher or Lower (#374)
+* [x] Search a 2D Matrix (#74)
+* [x] Search a 2D Matrix II (#240)
+* [x] Find Peak Element (#162)
 
 ### Upcoming Topics
 
-* [ ] Advanced Binary Search
 * [ ] Linked List
 * [ ] Trees
 * [ ] Graphs
 * [ ] Dynamic Programming
 
-## 📅 Challenge Progress
 
-* Day 1 ✅
-* Day 2 ✅
-* Day 3 ✅
-* Day 4 ✅
-* Day 5 ✅
-* Day 6 ✅
-* Day 7 ✅
-* Day 8 ✅
-* Day 9 ✅
-* Day 10 ✅
-* Day 11 ✅
-* Day 12 ✅
-
-**Total Problems Solved: 36+**
+**Total Problems Solved: 39+**
 
 ## 🔗 Connect With Me
 
 * LinkedIn: http://www.linkedin.com/in/asim-yash-456435399
 * LeetCode: https://leetcode.com/u/AsimYash/
+
+## 🏆 Current Focus
+
+* Completing Binary Search patterns
+* Building consistency through #100DaysOfDSA
+* Strengthening problem-solving and interview skills
+* Maintaining an active GitHub portfolio
 
 ---
 
