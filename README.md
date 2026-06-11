@@ -66,6 +66,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Search a 2D Matrix (#74)
 * [x] Search a 2D Matrix II (#240)
 * [x] Find Peak Element (#162)
+* [x] Arranging Coins (#441)
+* [x] sqrt(x) (#69)
 
 ### Upcoming Topics
 
