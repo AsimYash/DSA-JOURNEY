@@ -68,6 +68,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Find Peak Element (#162)
 * [x] Arranging Coins (#441)
 * [x] sqrt(x) (#69)
+* [x] koko eating bananas (875)
+* [x] minimum time to repair cars (2594) 
 
 ### Upcoming Topics
 
