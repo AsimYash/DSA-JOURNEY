@@ -44,6 +44,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Longest Substring Without Repeating Characters (#3)
 * [x] Defanging an IP Address (#1108)
 * [x] To Lower Case (#709)
+* [x] Roman to Integer (#13)
 
 ### Stack ✅
 
@@ -67,19 +68,47 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Search a 2D Matrix II (#240)
 * [x] Find Peak Element (#162)
 * [x] Arranging Coins (#441)
-* [x] sqrt(x) (#69)
-* [x] koko eating bananas (875)
-* [x] minimum time to repair cars (2594) 
+* [x] Sqrt(x) (#69)
+* [x] Koko Eating Bananas (#875)
+* [x] Minimum Time to Repair Cars (#2594)
+
+### Linked List ✅
+
+* [x] Reverse Linked List (#206)
+
+### Math / Number Manipulation ✅
+
+* [x] Reverse Integer (#7)
+* [x] Minimum Element After Replacement With Digit Sum (#3300)
 
 ### Upcoming Topics
 
-* [ ] Linked List
+* [ ] Advanced Linked List
 * [ ] Trees
 * [ ] Graphs
 * [ ] Dynamic Programming
 
+## 📅 Challenge Progress
 
-**Total Problems Solved: 39+**
+* Day 1 ✅
+* Day 2 ✅
+* Day 3 ✅
+* Day 4 ✅
+* Day 5 ✅
+* Day 6 ✅
+* Day 7 ✅
+* Day 8 ✅
+* Day 9 ✅
+* Day 10 ✅
+* Day 11 ✅
+* Day 12 ✅
+* Day 13 ✅
+* Day 14 ✅
+* Day 15 ✅
+* Day 16 ✅
+* Day 17 ✅
+
+**Total Problems Solved: 41+**
 
 ## 🔗 Connect With Me
 
@@ -88,9 +117,10 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 ## 🏆 Current Focus
 
-* Completing Binary Search patterns
+* Mastering Linked Lists
+* Strengthening DSA fundamentals
 * Building consistency through #100DaysOfDSA
-* Strengthening problem-solving and interview skills
+* Preparing for coding interviews and placements
 * Maintaining an active GitHub portfolio
 
 ---
