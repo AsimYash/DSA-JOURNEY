@@ -75,11 +75,13 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ### Linked List ✅
 
 * [x] Reverse Linked List (#206)
+* [x] Merge Two Sorted Lists
 
 ### Math / Number Manipulation ✅
 
 * [x] Reverse Integer (#7)
 * [x] Minimum Element After Replacement With Digit Sum (#3300)
+* [x] Single Number
 
 ### Upcoming Topics
 
@@ -107,6 +109,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 15 ✅
 * Day 16 ✅
 * Day 17 ✅
+* Day 18 ✅
 
 **Total Problems Solved: 41+**
 
