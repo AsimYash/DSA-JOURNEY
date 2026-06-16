@@ -76,6 +76,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 * [x] Reverse Linked List (#206)
 * [x] Merge Two Sorted Lists
+* [x] Remove Duplicates from Soretd List
+* [x] Linked List Cycle
+* [x] Remove Nth Node from End of List
 
 ### Math / Number Manipulation ✅
 
@@ -110,6 +113,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 16 ✅
 * Day 17 ✅
 * Day 18 ✅
+* Day 19 ✅
 
 **Total Problems Solved: 41+**
 
