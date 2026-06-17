@@ -80,12 +80,14 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Linked List Cycle
 * [x] Remove Nth Node from End of List
 * [x] Linked List Cycle
+* [x] Palindrome Linked List
 
 ### Math / Number Manipulation ✅
 
 * [x] Reverse Integer (#7)
 * [x] Minimum Element After Replacement With Digit Sum (#3300)
 * [x] Single Number
+* [x] Pow(x, n)
 
 ### Upcoming Topics
 
@@ -115,6 +117,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 17 ✅
 * Day 18 ✅
 * Day 19 ✅
+* Day 20 ✅
+
 
 **Total Problems Solved: 41+**
 
