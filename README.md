@@ -81,6 +81,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Remove Nth Node from End of List
 * [x] Linked List Cycle
 * [x] Palindrome Linked List
+* [x] Intersection of Two Linked Lists
+* [x] Delete the Middle Node of a Linked List
 
 ### Math / Number Manipulation ✅
 
@@ -118,6 +120,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 18 ✅
 * Day 19 ✅
 * Day 20 ✅
+* Day 21 ✅
 
 
 **Total Problems Solved: 41+**
