@@ -83,6 +83,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Palindrome Linked List
 * [x] Intersection of Two Linked Lists
 * [x] Delete the Middle Node of a Linked List
+* [x] Odd Even Linked List
+* [x] Swap Nodes in Pairs
 
 ### Math / Number Manipulation ✅
 
@@ -121,6 +123,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 19 ✅
 * Day 20 ✅
 * Day 21 ✅
+* Day 22 ✅
 
 
 **Total Problems Solved: 41+**
