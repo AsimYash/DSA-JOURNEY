@@ -85,6 +85,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Delete the Middle Node of a Linked List
 * [x] Odd Even Linked List
 * [x] Swap Nodes in Pairs
+* [x] Linked List Cycle II
+* [x] Reverse Linked List II
 
 ### Math / Number Manipulation ✅
 
@@ -124,6 +126,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 20 ✅
 * Day 21 ✅
 * Day 22 ✅
+* Day 23 ✅
 
 
 **Total Problems Solved: 41+**
