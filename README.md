@@ -87,6 +87,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Swap Nodes in Pairs
 * [x] Linked List Cycle II
 * [x] Reverse Linked List II
+* [x] Add Two Numbers
+* [x] Reorder List
 
 ### Math / Number Manipulation ✅
 
@@ -127,6 +129,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 21 ✅
 * Day 22 ✅
 * Day 23 ✅
+* Day 24 ✅
 
 
 **Total Problems Solved: 41+**
