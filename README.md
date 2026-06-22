@@ -89,6 +89,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Reverse Linked List II
 * [x] Add Two Numbers
 * [x] Reorder List
+* [x] Rotate List
+* [x] Copy List with Random Pointer
 
 ### Math / Number Manipulation ✅
 
@@ -130,6 +132,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 22 ✅
 * Day 23 ✅
 * Day 24 ✅
+* Day 25 ✅
 
 
 **Total Problems Solved: 41+**
