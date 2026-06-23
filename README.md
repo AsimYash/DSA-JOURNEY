@@ -58,6 +58,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Crawler Log Folder (#1598)
 * [x] Removing Stars From a String (#2390)
 * [x] Make The String Great (#1544)
+* [x] Asteroid Collison
+* [x] Evaluate Reverse Polish Notation
 
 ### Binary Search ✅
 
