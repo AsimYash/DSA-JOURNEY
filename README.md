@@ -60,6 +60,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Make The String Great (#1544)
 * [x] Asteroid Collison
 * [x] Evaluate Reverse Polish Notation
+* [x] Car Fleet
+* [x] Next Greater Element I
 
 ### Binary Search ✅
 
@@ -135,6 +137,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 23 ✅
 * Day 24 ✅
 * Day 25 ✅
+* Day 26 ✅
+* Day 27 ✅
 
 
 **Total Problems Solved: 41+**
