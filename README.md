@@ -75,6 +75,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Sqrt(x) (#69)
 * [x] Koko Eating Bananas (#875)
 * [x] Minimum Time to Repair Cars (#2594)
+* [x] Search in Rotated Sorted Array
+* [x] Find First and Last Position of Element in Sorted Array
 
 ### Linked List ✅
 
@@ -139,6 +141,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 25 ✅
 * Day 26 ✅
 * Day 27 ✅
+* Day 28 ✅
 
 
 **Total Problems Solved: 41+**
