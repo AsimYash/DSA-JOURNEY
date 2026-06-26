@@ -77,6 +77,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Minimum Time to Repair Cars (#2594)
 * [x] Search in Rotated Sorted Array
 * [x] Find First and Last Position of Element in Sorted Array
+* [x] Capacity To Ship Packages Within D Days
+* [x] Find Minimum in Rotated Sorted Array
 
 ### Linked List ✅
 
@@ -142,6 +144,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 26 ✅
 * Day 27 ✅
 * Day 28 ✅
+* Day 29 ✅
 
 
 **Total Problems Solved: 41+**
