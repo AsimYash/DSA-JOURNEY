@@ -45,6 +45,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Defanging an IP Address (#1108)
 * [x] To Lower Case (#709)
 * [x] Roman to Integer (#13)
+* [x] String Compression
+* [x] Reverse Words in a String
 
 ### Stack ✅
 
@@ -145,6 +147,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 27 ✅
 * Day 28 ✅
 * Day 29 ✅
+* Day 30 ✅
 
 
 **Total Problems Solved: 41+**
