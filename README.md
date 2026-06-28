@@ -47,6 +47,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Roman to Integer (#13)
 * [x] String Compression
 * [x] Reverse Words in a String
+* [x] Group Anagrams
+* [x] Zigzag Conversion
 
 ### Stack ✅
 
@@ -148,6 +150,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 28 ✅
 * Day 29 ✅
 * Day 30 ✅
+* Day 31 ✅
 
 
 **Total Problems Solved: 41+**
