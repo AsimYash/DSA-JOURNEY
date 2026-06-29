@@ -111,6 +111,11 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Single Number
 * [x] Pow(x, n)
 
+### Hashmap ✅
+
+* [x] Top K Frequent Elements
+* [x] Longest Consecutive Sequence
+
 ### Upcoming Topics
 
 * [ ] Advanced Linked List
@@ -151,6 +156,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 29 ✅
 * Day 30 ✅
 * Day 31 ✅
+* Day 32 ✅
 
 
 **Total Problems Solved: 41+**
