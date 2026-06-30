@@ -115,6 +115,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 * [x] Top K Frequent Elements
 * [x] Longest Consecutive Sequence
+* [x] Word Pattern
+* [x] Subarray Sum Equals K
 
 ### Upcoming Topics
 
@@ -157,6 +159,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 30 ✅
 * Day 31 ✅
 * Day 32 ✅
+* Day 33 ✅
 
 
 **Total Problems Solved: 41+**
