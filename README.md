@@ -117,6 +117,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Longest Consecutive Sequence
 * [x] Word Pattern
 * [x] Subarray Sum Equals K
+* [x] Continuous Subarray Sum
+* [x] Minimum Window Substring
 
 ### Upcoming Topics
 
@@ -160,6 +162,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 31 ✅
 * Day 32 ✅
 * Day 33 ✅
+* Day 34 ✅
 
 
 **Total Problems Solved: 41+**
