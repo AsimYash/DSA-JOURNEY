@@ -49,6 +49,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Reverse Words in a String
 * [x] Group Anagrams
 * [x] Zigzag Conversion
+* [x] Longest Palindromic Substring
+* [x] Multiply Substring
+* [x] Find all Anagramsm in a String
 
 ### Stack ✅
 
@@ -111,7 +114,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Single Number
 * [x] Pow(x, n)
 
-### Hashmap ✅
+### Hash ✅
 
 * [x] Top K Frequent Elements
 * [x] Longest Consecutive Sequence
@@ -119,6 +122,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Subarray Sum Equals K
 * [x] Continuous Subarray Sum
 * [x] Minimum Window Substring
+* [x] Valid Sudoku
 
 ### Upcoming Topics
 
