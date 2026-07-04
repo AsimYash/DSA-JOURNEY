@@ -123,6 +123,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Continuous Subarray Sum
 * [x] Minimum Window Substring
 * [x] Valid Sudoku
+* [x] Longest Harmonious Subsequence
+* [x] Brick Wall
 
 ### Upcoming Topics
 
