@@ -125,6 +125,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Valid Sudoku
 * [x] Longest Harmonious Subsequence
 * [x] Brick Wall
+* [x] Equal Row and Column Pairs
+* [x] Insert Delete GetRandom
 
 ### Upcoming Topics
 
@@ -169,6 +171,10 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 32 ✅
 * Day 33 ✅
 * Day 34 ✅
+* Day 35 ✅
+* Day 36 ✅
+* Day 37 ✅
+* Day 38 ✅
 
 
 **Total Problems Solved: 41+**
