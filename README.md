@@ -32,6 +32,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Rotate Array (#189)
 * [x] Missing Number (#268)
 * [x] Majority Element (#169)
+* [x] Spiral Matrix (#54)
+* [x] Rotate Image (#48)
 
 ### Strings ✅
 
