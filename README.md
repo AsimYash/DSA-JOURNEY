@@ -34,6 +34,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Majority Element (#169)
 * [x] Spiral Matrix (#54)
 * [x] Rotate Image (#48)
+* [x] Product of Array Except Self
+* [x] Set Matrix Zeroes
 
 ### Strings ✅
 
@@ -177,6 +179,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 36 ✅
 * Day 37 ✅
 * Day 38 ✅
+* Day 39 ✅
+* Day 40 ✅
 
 
 **Total Problems Solved: 41+**
