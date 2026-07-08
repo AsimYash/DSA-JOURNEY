@@ -36,6 +36,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Rotate Image (#48)
 * [x] Product of Array Except Self
 * [x] Set Matrix Zeroes
+* [x] Merge Interval
+* [x] Insert Interval
 
 ### Strings ✅
 
