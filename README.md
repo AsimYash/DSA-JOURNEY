@@ -38,6 +38,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Set Matrix Zeroes
 * [x] Merge Interval
 * [x] Insert Interval
+* [x] Partition Labels
 
 ### Strings ✅
 
@@ -58,6 +59,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Longest Palindromic Substring
 * [x] Multiply Substring
 * [x] Find all Anagramsm in a String
+* [x] Merge Strings Alternately
 
 ### Stack ✅
 
@@ -183,6 +185,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 38 ✅
 * Day 39 ✅
 * Day 40 ✅
+* Day 41 ✅
+* Day 42 ✅
+
 
 
 **Total Problems Solved: 41+**
