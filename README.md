@@ -39,6 +39,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Merge Interval
 * [x] Insert Interval
 * [x] Partition Labels
+* [x] Valid Tic-Tac-Toe State
 
 ### Strings ✅
 
@@ -77,6 +78,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Evaluate Reverse Polish Notation
 * [x] Car Fleet
 * [x] Next Greater Element I
+* [x] Simplify Path
 
 ### Binary Search ✅
 
