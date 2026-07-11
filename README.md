@@ -79,6 +79,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Car Fleet
 * [x] Next Greater Element I
 * [x] Simplify Path
+* [x] Remove K Elements
+* [x] Largest Rectangle in Histogram
 
 ### Binary Search ✅
 
@@ -189,6 +191,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 40 ✅
 * Day 41 ✅
 * Day 42 ✅
+* Day 43 ✅
 * Day 43 ✅
 
 
