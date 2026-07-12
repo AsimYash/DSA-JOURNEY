@@ -40,6 +40,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Insert Interval
 * [x] Partition Labels
 * [x] Valid Tic-Tac-Toe State
+* [x] Subsets
 
 ### Strings ✅
 
