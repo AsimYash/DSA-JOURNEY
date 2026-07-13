@@ -62,6 +62,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Multiply Substring
 * [x] Find all Anagramsm in a String
 * [x] Merge Strings Alternately
+* [x] Add Strings
 
 ### Stack ✅
 
@@ -82,6 +83,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Simplify Path
 * [x] Remove K Elements
 * [x] Largest Rectangle in Histogram
+* [x] Basic Calculator
+* [x] Score of Parentheses
 
 ### Binary Search ✅
 
@@ -193,7 +196,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 41 ✅
 * Day 42 ✅
 * Day 43 ✅
-* Day 43 ✅
+* Day 44 ✅
+* Day 45 ✅
+* Day 46 ✅
 
 
 
