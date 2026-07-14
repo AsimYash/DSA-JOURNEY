@@ -85,6 +85,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Largest Rectangle in Histogram
 * [x] Basic Calculator
 * [x] Score of Parentheses
+* [x] Check If Array Pairs Are Divisible by k
+* [x] Unique Number of Occurances
 
 ### Binary Search ✅
 
@@ -199,6 +201,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 44 ✅
 * Day 45 ✅
 * Day 46 ✅
+* Day 47 ✅
 
 
 
