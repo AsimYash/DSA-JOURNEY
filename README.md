@@ -63,6 +63,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Find all Anagramsm in a String
 * [x] Merge Strings Alternately
 * [x] Add Strings
+* [x] Count and Say
+* [x] Integer to Roman
 
 ### Stack ✅
 
@@ -202,6 +204,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 45 ✅
 * Day 46 ✅
 * Day 47 ✅
+* Day 48 ✅
+* Day 49 ✅
 
 
 
