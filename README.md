@@ -65,6 +65,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Add Strings
 * [x] Count and Say
 * [x] Integer to Roman
+* [x] Maximum Number Of Vowels in a Substring Of a Given Length
 
 ### Stack ✅
 
@@ -126,6 +127,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Reorder List
 * [x] Rotate List
 * [x] Copy List with Random Pointer
+* [x] Partition List
 
 ### Math / Number Manipulation ✅
 
@@ -208,6 +210,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * Day 49 ✅
 * Day 50 ✅
 * Day 51 ✅
+* Day 52 ✅
 
 
 
