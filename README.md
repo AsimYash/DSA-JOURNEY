@@ -90,6 +90,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Score of Parentheses
 * [x] Check If Array Pairs Are Divisible by k
 * [x] Unique Number of Occurances
+* [x] Next Greater Node in Linked List
 
 ### Binary Search ✅
 
@@ -128,6 +129,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 * [x] Rotate List
 * [x] Copy List with Random Pointer
 * [x] Partition List
+* [x] Split Linked List in Parts
 
 ### Math / Number Manipulation ✅
 
