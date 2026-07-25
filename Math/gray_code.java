@@ -4,6 +4,6 @@ class Solution {
         int total = 1 << n;
         for (int i = 0; i < total; i++)
         ans.add(i ^ (i >> 1));
-        return ans;
+        return ans; 
     }
 }
